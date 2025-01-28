@@ -1,0 +1,5 @@
+#ignore logo
+logo.ico
+
+#ignore previous versions
+/dist/
